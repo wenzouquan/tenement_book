@@ -7,4 +7,5 @@
 * [上传账单](shang-chuan-zhang-dan.md)
 * [上传住户](shang-chuan-zhu-hu.md)
 * [员工管理](yuan-gong-guan-li.md)
+* [财务管理](cai-wu-guan-li.md)
 
