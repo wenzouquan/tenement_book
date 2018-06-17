@@ -1,5 +1,5 @@
 # Summary
 
-* [智慧小区手册](README.md)
+* [小蜜蜂智慧小区介绍](README.md)
 * [First Chapter](chapter1.md)
 
