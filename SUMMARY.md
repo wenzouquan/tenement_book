@@ -6,4 +6,5 @@
 * [上传房屋](shang-chuan-fang-wu.md)
 * [上传账单](shang-chuan-zhang-dan.md)
 * [上传住户](shang-chuan-zhu-hu.md)
+* [员工管理](yuan-gong-guan-li.md)
 
